@@ -2,10 +2,10 @@
 
 This repository provides the implementation of attention mechanisms integrated into Grouped Auxiliary Memory Recurrent Highway Networks (GAM-RHN). It includes modules for data preprocessing, model training, evaluation, and implementation of various attention mechanisms.
 
-This work is based on a yet-to-be-published paper titled [Integrating Attention Mechanisms into Recurrent Highway Networks with Grouped Auxiliary Memory](https://shorturl.at/tU8X7){:target="_blank"} , developed collaboratively by:
+This work is based on a yet-to-be-published paper titled [Integrating Attention Mechanisms into Recurrent Highway Networks with Grouped Auxiliary Memory](https://shorturl.at/tU8X7), developed collaboratively by:
 
-- **Shaurya**: [GitHub Profile](https://github.com/ladsad){:target="_blank"} 
-- **Devika**: [GitHub Profile](https://github.com/DevikaIyer23){:target="_blank"} 
+- **Shaurya**: [GitHub Profile](https://github.com/ladsad)
+- **Devika**: [GitHub Profile](https://github.com/DevikaIyer23)
 
 ---
 
@@ -55,7 +55,7 @@ Follow these steps to set up the project:
 
 4. **Download save-state files:**
    Download the pretrained model files from the following Google Drive link:
-   [Download Save-State Files](https://drive.google.com/drive/folders/1cR_AYvDu26eNPHIlp91wycJ5-UBMh4lD?usp=drive_link){:target="_blank"} 
+   [Download Save-State Files](https://drive.google.com/drive/folders/1cR_AYvDu26eNPHIlp91wycJ5-UBMh4lD?usp=drive_link)
 
    After downloading, place the files in the `models/save_state/` directory.
 
@@ -113,7 +113,7 @@ We welcome contributions! If you have ideas for improvements or fixes, please op
 
 This project builds upon concepts from the following resources:
 
-- Paper: [Recurrent Highway Networks with Grouped Auxiliary Memory](https://ieeexplore.ieee.org/document/8932404){:target="_blank"} .
-- Repository: [Original GAM-RHN Implementation](https://github.com/WilliamRo/gam_rhn){:target="_blank"} .
+- Paper: [Recurrent Highway Networks with Grouped Auxiliary Memory](https://ieeexplore.ieee.org/document/8932404).
+- Repository: [Original GAM-RHN Implementation](https://github.com/WilliamRo/gam_rhn).
 
 ---
