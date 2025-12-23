@@ -2,7 +2,7 @@
 
 This repository provides the implementation of attention mechanisms integrated into Grouped Auxiliary Memory Recurrent Highway Networks (GAM-RHN). It includes modules for data preprocessing, model training, evaluation, and implementation of various attention mechanisms.
 
-This work is based on a yet-to-be-published paper titled [Integrating Attention Mechanisms into Recurrent Highway Networks with Grouped Auxiliary Memory](https://shorturl.at/tU8X7), developed collaboratively by:
+This work is based on a yet-to-be-published paper titled [Integrating Attention Mechanisms into Recurrent Highway Networks with Grouped Auxiliary Memory](papers/Integrating%20Attention%20mechanisms%20into%20Recurrent%20Highway%20Networks%20with%20Grouped%20Auxiliary%20Memory.pdf), developed collaboratively by:
 
 - **Shaurya**: [GitHub Profile](https://github.com/ladsad)
 - **Devika**: [GitHub Profile](https://github.com/DevikaIyer23)
